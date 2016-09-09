@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  JSTest
 //
 //  Created by kong on 16/9/9.
 //  Copyright © 2016年 konglee. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ItemViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : ItemViewController
 
 @end
-

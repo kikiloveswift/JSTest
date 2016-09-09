@@ -1,0 +1,16 @@
+//
+//  config.pch
+//  JSTest
+//
+//  Created by kong on 16/9/9.
+//  Copyright © 2016年 konglee. All rights reserved.
+//
+
+#ifndef config_pch
+#define config_pch
+
+#import "TydefNum.h"
+#import "define.h"
+
+#import "HybridUntils.h"
+#endif
